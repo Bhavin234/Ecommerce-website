@@ -1,0 +1,21 @@
+ProductName    Genre          Stock
+-------------  -----------  -------
+T-shirt        Clothing         100
+Jeans          Clothing          50
+Sneakers       Footwear          80
+Backpack       Accessories      120
+Watch          Accessories       60
+Phone Case     Accessories      200
+Headphones     Electronics       70
+Laptop         Electronics       30
+Smartwatch     Electronics       40
+Dress          Clothing          70
+Shorts         Clothing          60
+Boots          Footwear          40
+Sandals        Footwear          90
+Necklace       Accessories      150
+Sunglasses     Accessories       80
+Wallet         Accessories      100
+Speaker        Electronics       50
+Camera         Electronics       20
+Tablet         Electronics       30
