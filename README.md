@@ -38,10 +38,3 @@ The E-commerce Platform aims to provide a seamless and user-friendly online shop
 
 Contributions to the project are welcome! Please feel free to submit pull requests with enhancements, bug fixes, or new features. For major changes, please open an issue to discuss potential updates beforehand.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes.
-
-## Acknowledgements
-
-Special thanks to the developers and contributors who have contributed to the project, as well as the open-source community for their invaluable resources and support.
